@@ -1,0 +1,2 @@
+hello welcome to linking of git parallel branches to main branches
+do note it's fine if it's working using git bash or powershell both will do the same eventually, may have some different syntax.
